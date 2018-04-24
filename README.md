@@ -1,7 +1,7 @@
 # window-closing
 
 Dash custom component to make sure a message pops up whenever a user tries to close the app
-
+ 
 ## Dash
 
 Go to this link to learn about [Dash][].
